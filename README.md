@@ -1,10 +1,10 @@
 <div align="center">
 
-# References
+**References**
 
 Erin MacDougall • Science Atlantic Psychology 2026
 
-_Questions?_ 📧 ErinMacDougall@dal.ca
+*Questions?* 📧 ErinMacDougall@dal.ca
 
 </div>
 
