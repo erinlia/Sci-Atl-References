@@ -1,7 +1,13 @@
-# References
-Questions? Email: ErinMacDougall@dal.ca
+<div align="center">
 
-*References for Erin MacDougall's 2026 Science Atlantic Psychology presentation*
+# References
+
+Erin MacDougall • Science Atlantic Psychology 2026
+
+_Questions?_ 📧 ErinMacDougall@dal.ca
+
+</div>
+
 
 American Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders (5th ed.). *American Psychiatric Publishing*. https://doi.org/10.1176/appi.books.9780890425596
 
