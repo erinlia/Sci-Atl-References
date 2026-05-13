@@ -1,10 +1,10 @@
 <div align="center">
 
-**References**
+<h1>References</h1>
 
-Erin MacDougall • Science Atlantic Psychology 2026
+<p>Erin MacDougall • Science Atlantic Psychology 2026</p>
 
-*Questions?* 📧 ErinMacDougall@dal.ca
+<p><em>Questions?</em> 📧 ErinMacDougall@dal.ca</p>
 
 </div>
 
