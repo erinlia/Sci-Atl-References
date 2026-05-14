@@ -47,8 +47,6 @@ Hayes, A. F. (2022). Introduction to mediation, moderation, and conditional proc
 
 Heishman, S. J., Evans, R. J., Singleton, E. G., Levin, K. H., Copersino, M. L., & Gorelick, D. A. (2009). Reliability and validity of a short form of the Marijuana Craving Questionnaire. _Drug and Alcohol Dependence, 102_(1–3), 35–40. https://doi.org/10.1016/j.drugalcdep.2008.12.010
 
-Hu, L., & Bentler, P. M. (1999). Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives. Structural Equation Modeling: _A Multidisciplinary Journal, 6_(1), 1–55. https://doi.org/10.1080/10705519909540118
-
 Jónsdóttir, E. K., Hálfdánardóttir, H., Þorvaldsdóttir, K. B., Skúladóttir, H., Vilhjálmsson, H. H., Ásgeirsdóttir, B. B., & Sigurvinsdottir, R. S. (2025). ‘I just felt like I had no voice’: Courtroom experiences of female sexual violence survivors seeking justice. _Psychology, Crime & Law, 1–21_. https://doi.org/10.1080/1068316X.2025.2602142
 
 Kevorkian, S., Bonn-Miller, M. O., Belendiuk, K., Carney, D. M., Roberson-Nay, R., & Berenz, E. C. (2015). Associations among trauma, posttraumatic stress disorder, cannabis use, and cannabis use disorder in a nationally representative epidemiologic sample. _Psychology of Addictive Behaviors, 29_(3), 633–638. https://doi.org/10.1037/adb0000110
